@@ -1,0 +1,12 @@
+{
+  "name": "mdns-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mdns": "^2.7.2",
+    "socket.io": "^4.0.1",
+    "websocket": "^1.0.34"
+  }
+}
